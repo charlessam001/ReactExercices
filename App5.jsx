@@ -1,3 +1,4 @@
+//making list like object in jsx
 import { useState } from 'react'
 
 import'./App.css'

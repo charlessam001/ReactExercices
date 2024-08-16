@@ -1,3 +1,4 @@
+// another way to create condition in jsx with && 
 import { useState } from 'react'
 
 import'./App.css'
